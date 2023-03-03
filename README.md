@@ -1,6 +1,8 @@
 # ChatGPT-API-Example-Code
 
-A Simple python code for interacting with ChatGPT API using 2 modes: 1. Interactive continuous chat 2. single request using arg
+A Simple python code for interacting with ChatGPT API using 2 modes:
+1. Interactive continuous chat
+2. Passing argrument for a single result
 
 
 Example 1:
