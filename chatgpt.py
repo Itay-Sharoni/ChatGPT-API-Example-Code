@@ -44,7 +44,6 @@ if len(sys.argv) == 2:
     user_input = sys.argv[1]
     history = []
     result = generate_chat_response(user_input, history)
-    #result = chat_with_gpt(user_input)
     print(result)
     sys.exit()
 else:
